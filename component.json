@@ -2,14 +2,16 @@
   "name": "array-remove",
   "repo": "nk-components/array-remove",
   "description": "Remove an item from an array",
-  "version": "0.0.0",
-  "keywords": ["array","remove"],
+  "version": "1.0.0",
+  "keywords": [
+    "array",
+    "remove"
+  ],
   "license": "MIT",
   "development": {
     "component/assert": "*"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": [
     "index.js"
   ]
